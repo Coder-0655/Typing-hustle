@@ -1,0 +1,5 @@
+{
+  "name": "Typing Speed Race",
+  "description": "Test your WPM (words per minute) and accuracy in a timed typing challenge. The application features a random paragraph generator using Gemini, live WPM display, error highlighting, a countdown animation, and a history chart to track your progress.",
+  "requestFramePermissions": []
+}
